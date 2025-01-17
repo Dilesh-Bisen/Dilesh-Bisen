@@ -2,7 +2,7 @@
 
 I'm Dilesh Bisen, a passionate Computer Science student at the Indian Institute of Information Technology, Pune. I specialize in full-stack development and competitive programming, with a strong foundation in various programming languages and frameworks. I am always eager to collaborate on innovative tech projects and continuously strive to enhance my skills.
 
-- 🔭 I’m currently working on full-stack projects using Django and React.js.
+- 🔭 I’m currently working on full-stack projects utilizing technologies such as Django, React.js, Next.js, Node.js, and more.
 - 👯 I’m looking to collaborate on innovative tech projects.
 
 ---
