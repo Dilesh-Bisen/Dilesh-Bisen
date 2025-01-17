@@ -1,14 +1,9 @@
 ## Hi there 👋
 
-I'm Dilesh Bisen, a Computer Science student at IIIT Pune specializing in full-stack development and competitive programming.
+I'm Dilesh Bisen, a passionate Computer Science student at the Indian Institute of Information Technology, Pune. I specialize in full-stack development and competitive programming, with a strong foundation in various programming languages and frameworks. I am always eager to collaborate on innovative tech projects and continuously strive to enhance my skills.
 
 - 🔭 I’m currently working on full-stack projects using Django and React.js.
-- 🌱 I’m currently learning advanced machine learning techniques.
 - 👯 I’m looking to collaborate on innovative tech projects.
-- 🤔 I’m looking for help with deep learning applications.
-- 💬 Ask me about web development, competitive programming, or anything tech-related!
-- 📫 How to reach me: 1dilleshbisen@gmail.com
-- ⚡ Fun fact: I ranked in the top 2.6% in JEE Mains 2022.
 
 ---
 
@@ -21,31 +16,10 @@ I'm Dilesh Bisen, a Computer Science student at IIIT Pune specializing in full-s
 ---
 
 ### Technologies & Tools:
-- C/C++
-- Java
-- Python
-- Django
-- React.js
-- Node.js
-- MongoDB
-- MySQL
-- Git
-
----
-
-### Notable Projects:
-- **Budget-Beam:** A financial management application built with Next.js, React, and Tailwind CSS.
-- **Student Management Informative System:** A comprehensive student management system developed using the Django framework.
-
----
-
-### Achievements:
-- **LeetCode:** Rating of 1757
-- **CodeChef:** 3-star rating with a score of 1617
-- **Codeforces:** Newbie rating of 1088
-- **JEE Mains 2022:** Top 2.6% rank
-- **JEE Advanced 2022:** Rank of 28,420
-- **ATMECS GEN AI Hackathon:** Top 16 out of 4,900+ teams
+- **Languages:** C/C++, Java, Python
+- **Frameworks:** Django, React.js, Node.js, Express.js, Next.js
+- **Development Tools:** MongoDB, MySQL, Git, VS Code
+- **Familiar With:** Unix/Linux, Deep Learning
 
 ---
 
