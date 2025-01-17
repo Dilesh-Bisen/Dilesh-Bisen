@@ -7,7 +7,7 @@ I'm Dilesh Bisen, a Computer Science student at IIIT Pune specializing in full-s
 - 👯 I’m looking to collaborate on innovative tech projects.
 - 🤔 I’m looking for help with deep learning applications.
 - 💬 Ask me about web development, competitive programming, or anything tech-related!
-- 📫 How to reach me: dilleshbisen@gmail.com
+- 📫 How to reach me: 1dilleshbisen@gmail.com
 - ⚡ Fun fact: I ranked in the top 2.6% in JEE Mains 2022.
 
 ---
