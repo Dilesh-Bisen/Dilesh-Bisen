@@ -16,11 +16,11 @@ Hi, I'm Dilesh Bisen, currently  pursuing a B.Tech in third year CSE at IIIT Pun
 ---
 
 ### Technologies & Tools:
-- **Languages:** C/C++, Python; 
-- **Development Frameworks:** HTML, CSS, JS, React.js, Node.js, Express.js, Next.js, Django;
-- **Developer Tools:** MongoDB, MySQL, Git/Github, VS Code;
-- **Course Work:** Data Structures, DBMS, OOPs, OS;
-- **Familiar With:** Machine Learning, Deep Learning;
+- **Languages:** C/C++, Python
+- **Development Frameworks:** HTML, CSS, JS, React.js, Node.js, Express.js, Next.js, Django
+- **Developer Tools:** MongoDB, MySQL, Git/Github, VS Code
+- **Course Work:** Data Structures, DBMS, OOPs, OS
+- **Familiar With:** Machine Learning, Deep Learning
 - **Extra-Curricular:** Challenge Resolution, Effective Communication, Team Management
 
 ---
