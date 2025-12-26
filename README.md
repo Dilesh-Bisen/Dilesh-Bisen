@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Hi, I'm Dilesh Bisen, currently  pursuing a B.Tech in third year CSE at IIIT Pune. I have a strong foundation in programming , and I enjoy working on full-stack development projects using technologies like React, Next.js, MERN stack and Django. I’ve built several projects, including a financial management application which helped me develop problem-solving skills and a keen eye for user experience. Outside of coding, I love tackling competitive programming challenges on platforms like LeetCode and CodeChef, where I’ve achieved decent rankings. I’m passionate about learning new technologies and applying them to solve real-world problems. Looking forward to discussing how I can contribute to your team!
+Hi, I'm Dilesh Bisen, pursuing a B.Tech in CSE at IIIT Pune. I have a strong foundation in programming , and I enjoy working on full-stack development projects using technologies like React, Next.js, MERN stack and Django. I’ve built several projects, including a financial management application which helped me develop problem-solving skills and a keen eye for user experience. Outside of coding, I love tackling competitive programming challenges on platforms like LeetCode and CodeChef, where I’ve achieved decent rankings. I’m passionate about learning new technologies and applying them to solve real-world problems. Looking forward to discussing how I can contribute to your team!
 
 - 👯 I’m looking to collaborate on innovative tech projects.
 
